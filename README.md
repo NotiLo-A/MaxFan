@@ -70,4 +70,4 @@ Flags:
 Instead of writing awkward commands with `echo` and `tee` each time, **MaxFan gives you a simple, consistent interface** to control your ThinkPad’s fan.
 
 
-*Honestly, it was easier for my lazy ass to write a program than to add a couple of arguments to a command I use like once a year.*
+*Yeah, I’m a lazy ass and it’s a drag for me to type three extra words in a command I use once in a blue moon.*
