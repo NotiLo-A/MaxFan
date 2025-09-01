@@ -36,7 +36,7 @@ g++ maxfan.cpp -o maxfan
 Then run with `sudo`:
 
 ```bash
-sudo ./maxfan --help
+sudo maxfan --help
 ```
 
 ---
