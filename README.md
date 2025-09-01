@@ -50,7 +50,7 @@ sudo maxfan [OPTIONS]
 Basic example:
 
 ```bash
-sudo maxfan --watchdogs 3
+sudo maxfan --watchdog 3
 sudo maxfan full-speed
 sudo maxfan -s 1
 sudo maxfan -m
