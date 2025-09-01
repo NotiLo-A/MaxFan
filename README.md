@@ -44,15 +44,16 @@ sudo ./maxfan --help
 ## Usage
 
 ```bash
-sudo ./maxfan [OPTIONS]
+sudo maxfan [OPTIONS]
 ```
 
 Basic example:
 
 ```bash
-sudo ./maxfan --level full-speed
-sudo ./maxfan --mode disable
-sudo ./maxfan --stats 2
+sudo maxfan --watchdogs 3
+sudo maxfan full-speed
+sudo maxfan -s 1
+sudo maxfan -m
 ```
 
 Flags:
