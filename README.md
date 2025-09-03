@@ -38,7 +38,10 @@ Then run with `sudo`:
 ```bash
 sudo maxfan --help
 ```
-
+### or
+```bash
+yay -S maxfan
+```
 ---
 
 ## Usage
